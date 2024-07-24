@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /* 
-change database schemas
+change in database
 handle cors
-
+handle csrf
 */
 
 @SpringBootApplication
